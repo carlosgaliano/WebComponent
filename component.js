@@ -1,0 +1,3 @@
+class SaludosBasicoElement extends HTMLElement {
+    
+}
